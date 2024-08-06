@@ -31,7 +31,7 @@ Qt：5.14.2     kits：desktop Qt MinGW 32bit
 - 显示媒体文件名
 <a name="KXvHZ"></a>
 # 视频演示
-https://private-user-images.githubusercontent.com/103874084/355138310-65b50bdc-f1f4-443e-b305-49ced1839b66.mp4
+data-canonical-src="https://private-user-images.githubusercontent.com/103874084/355138310-65b50bdc-f1f4-443e-b305-49ced1839b66.mp4"
 <a name="HrPT3"></a>
 # 项目分析
 ![](https://cdn.nlark.com/yuque/0/2024/jpeg/27393008/1721728596809-c3d598c0-ca2c-4342-8fd9-b948bbf89ba2.jpeg)
